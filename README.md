@@ -1,5 +1,5 @@
-Affirmations
-==
+![Affirmations logo](app/src/main/res/drawable-xhdpi/ic_launcher.png)
+# Affirmations
 
 An Android app to notify you of your mantra.
 
