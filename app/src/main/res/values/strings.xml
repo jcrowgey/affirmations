@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Affirmations</string>
+    <string-array name="affirmations_array">
+        <item>I put all fear aside as I prepare for the birth of my baby.</item>
+        <item>I am relaxed and happy that my baby is finally coming to me.</item>
+        <item>I am focused on a smooth, easy birth.</item>
+        <item>I trust my body to know what it is to do.</item>
+        <item>My mind is relaxed; my body is relaxed.</item>
+        <item>I feel confident; I feel safe; I feel secure.</item>
+        <item>My muscles work in complete harmony to make birthing easier.</item>
+        <item>I feel a natural anesthesia flowing through my body.</item>
+        <item>I relax as we move quickly and easily through each stage of birth.</item>
+        <item>My cervix opens outward and allows my baby to ease down.</item>
+        <item>I fully relax and turn my birthing over to Nature.</item>
+        <item>I see my baby coming smoothly from my womb.</item>
+        <item>My baby\'s birth will be easy because I am so relaxed.</item>
+        <item>I breathe correctly and eliminate tension.</item>
+        <item>I feel my body gently sway with relaxation.</item>
+        <item>I turn my birthing over to my baby and my body.</item>
+        <item>I see my breath filling a magnificent balloon.</item>
+        <item>I am prepared to meet whatever turn my birthing takes.</item>
+        <item>My baby moves gently along in its journey.</item>
+        <item>Each surge of my body brings my baby closer to me.</item>
+        <item>I deepen my relaxation as I move further into labor.</item>
+        <item>I am totally relaxed and at ease.</item>
+        <item>My body remains still and limp.</item>
+        <item>I meet each surge only with my breath; my body is at ease.</item>
+        <item>I release my birthing over to my body and my baby.</item>
+        <item>I bring myself deeper into relaxation.</item>
+        <item>I slowly breathe up with each surge.</item>
+        <item>I put all fear aside and welcome my baby with happiness and joy.</item>
+    </string-array>
+</resources>
